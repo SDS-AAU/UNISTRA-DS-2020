@@ -3,23 +3,12 @@ title: Home
 layout: default
 ---
 
-# Bootstrap Workshop Template!
+# Working with unstructured data
 
-{% include figure.html img="uidaho-workshop.jpg" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="https//source.unsplash.com/1K6IQsQbizI" alt="intro image here" caption="Unsplash, Franki Chamaki" width="75%" %}
 
-A minimal Jekyll theme with Bootstrap for creating workshop websites.
+This is the repository website for the 2021 course in Network Analysis and NLP at the UNISTRA DS programme. On this page you will find tutorial videos, assignments and links to Q&A meetings. The page is updated troughout the course.
 
-*Add your workshop abstract here!*
-
-Learn how to create a super quick easy website for a workshop by writing a few markdown files! 
-Host it for free on GitHub with gh-pages, and share!
-Fun!
-
-*See also:* [workshop-template](https://evanwill.github.io/workshop-template/), original minimal version.
-
-{% include toc.html %}
-
-Hosted by [University of Idaho Library](http://www.lib.uidaho.edu/), {{ site.pub_year }}.
 
 ------
 
