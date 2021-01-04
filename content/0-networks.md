@@ -1,5 +1,5 @@
 ---
 title: Network Analysis
-nav: Network Analysis
+nav: Networks
 ---
 
