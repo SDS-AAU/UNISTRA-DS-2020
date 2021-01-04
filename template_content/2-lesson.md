@@ -1,6 +1,6 @@
 ---
 title: Get Started
-nav: Start
+#nav: Start
 topics: Template; Config; Lorem ipsum
 ---
 

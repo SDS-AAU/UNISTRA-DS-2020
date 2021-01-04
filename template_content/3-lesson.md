@@ -1,6 +1,6 @@
 ---
 title: Create Lesson Content
-nav: Content
+#nav: Content
 topics: Markdown; Includes
 ---
 

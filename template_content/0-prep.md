@@ -1,6 +1,6 @@
 ---
 title: Workshop Prep
-nav: Prep
+#nav: Prep
 topics: GitHub; Optional Software
 ---
 

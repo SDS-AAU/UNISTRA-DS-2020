@@ -1,6 +1,6 @@
 ---
 title: Introduction
-nav: Intro
+#nav: Intro
 ---
 
 One amazingly useful GitHub feature is [GitHub Pages](https://guides.github.com/features/pages/).
