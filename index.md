@@ -19,9 +19,12 @@ This is the repository website for the 2021 course in Network Analysis and NLP a
 - Networks and SML
 
 ### Ecosystem
-#### R
+**R**
 
-#### Python
+**Python**
+- [NetworkX](https://networkx.org/) - standard library for NA in Python
+- [pyvis](https://pyvis.readthedocs.io/en/latest/) - useful visualisation package
+
 
 {% endcapture %}
 {% include card.html text=text header="Part 1: Network Analysis" title="Contents" img="network_title.jpg" %}
@@ -35,9 +38,13 @@ This is the repository website for the 2021 course in Network Analysis and NLP a
 - NLP and SML
 
 ### Ecosystem
-#### R
+**R**
 
-#### Python
+**Python**
+* [NLTK](https://www.nltk.org/book/) - Standard library for all traditional NLP work in Python
+* [SpaCy](https://spacy.io/) - modern deep learning based library for many NLP tasks
+* [Gensim](https://radimrehurek.com/gensim/) - library for topic modelling and vectorisation
+* [Textblob](https://textblob.readthedocs.io/en/dev/) - simple library wrapping NLTK ... but simpler
 
 {% endcapture %}
 {% include card.html text=text header="Part 2: Natural Language Processing" title="Contents" img="nlp_title.jpg" %}
