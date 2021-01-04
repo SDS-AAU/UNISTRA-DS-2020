@@ -20,6 +20,10 @@ This is the repository website for the 2021 course in Network Analysis and NLP a
 
 ### Ecosystem
 **R**
+- [Tidyverse](https://www.tidyverse.org/): General datascience ecosystem for R
+- [Igraph](https://igraph.org/): Main graph analytics package in R
+- [Tidygraph](https://tidygraph.data-imaginist.com/): Igraph wrapper for tidy network analytics workflows
+- [Ggrph](https://ggraph.data-imaginist.com/): ggplot2 extension for network visualization
 
 **Python**
 - [NetworkX](https://networkx.org/) - standard library for NA in Python
@@ -39,6 +43,8 @@ This is the repository website for the 2021 course in Network Analysis and NLP a
 
 ### Ecosystem
 **R**
+- [tidytext](https://juliasilge.github.io/tidytext/) - Main NLP and textmining ecosystem for R.
+- [Quanteda](https://quanteda.io/) - Further NLP functionalities in this popular package in R.
 
 **Python**
 * [NLTK](https://www.nltk.org/book/) - Standard library for all traditional NLP work in Python
