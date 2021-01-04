@@ -24,7 +24,7 @@ pub_year: 2021
 github_username: SDS-AAU
 
 # add the full url for the github repository
-repo: "https://github.com/SDS-AAU/UNISTRA-DS-2020"
+repo: "https://github.com/SDS-AAU/UNISTRA-DS-2021"
 
 # site urls
 # add the url for the domain,
@@ -32,7 +32,7 @@ repo: "https://github.com/SDS-AAU/UNISTRA-DS-2020"
 url: https://SDS-AAU.github.io/
 # add subsection of the domain,
 # on gh-pages this is a / followed by the name of the repository
-baseurl: /UNISTRA-DS-2020
+baseurl: /UNISTRA-DS-2021
 
 # add search box to footer?
 search: true
