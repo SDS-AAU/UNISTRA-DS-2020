@@ -26,6 +26,9 @@ nav: Network Analysis
    * Video [1: Intro & ecosystem](https://www.loom.com/share/e2a1e501c1474b70aaa64bad5257d635)  [2: Network Measures](https://www.loom.com/share/3556014c3e2b4fd39d675e05258f5041) [3: Mini Case](https://www.loom.com/share/75ed0b7f781a447991f28149bbe54c04) 
    * [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M2/notebooks/M2_Networks_hands_on_in_python.ipynb)
 
+
+<!----
+
 ## Intermediate Network Analysis Directed & Social networks
 
 * R: 
@@ -49,3 +52,5 @@ nav: Network Analysis
    * [Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/M2_Bipartite_graphs_in_Python.ipynb)
    * Mapping ETF Holdings with NWs [Video](https://www.loom.com/share/3984d91363f54c01b27d8672f382b711?sharedAppSource=personal_library) 
    * [Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/M2_Case_ETF_Holdings_Python.ipynb)
+
+---->
