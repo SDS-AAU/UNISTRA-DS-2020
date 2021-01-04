@@ -3,7 +3,14 @@ title: Network Analysis
 nav: Network Analysis
 ---
 
+Contents & Topics: 
 
+* Network thinking
+* Types of Networks & Sources of Network Data
+* Network Visualization
+* Network-based indicators
+* Community Detection
+* Networks and Supervised Machine Learning
 
 
 # Theory: Introduction to network analysis
