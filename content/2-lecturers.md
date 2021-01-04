@@ -11,7 +11,7 @@ is an Associate Professor of Innovation Studies and Applied Data Science at Aalb
 {% include card.html text=text header="Roman Jurowetzki" title="" float="left" %}
 
 
-{% include figure.html img="me.jpg" alt="Daniel Hain" caption="" width="30%" %}
+{% include figure.html img="me.jpg" alt="Daniel Hain" caption="" width="50%" float="center" %}
 
 {% capture text %}
 is an Associate Professor of Data Science and Innoivation Economics at the Aalborg University Business School, Denmark. 
