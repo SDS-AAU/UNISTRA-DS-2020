@@ -44,8 +44,6 @@ Contents & Topics:
    * Video [1: DiGraphs-intro](https://www.loom.com/share/6a8c8d5d6b8e4e989356b5ca4fa47035?sharedAppSource=personal_library)  [2: DiGraphs-Case](https://www.loom.com/share/fb7a9e91d67e487094b390c9b509737c?sharedAppSource=personal_library) 
    * [Colab](https://github.com/SDS-AAU/SDS-master/blob/master/M2/notebooks/M2_Directed_Networks_hands_on_Python.ipynb)
 
-<!----
-
 ## Bipartite (2-mode) Networks
 
 * R: 
@@ -59,7 +57,6 @@ Contents & Topics:
    * Mapping ETF Holdings with NWs [Video](https://www.loom.com/share/3984d91363f54c01b27d8672f382b711?sharedAppSource=personal_library) 
    * [Colab](https://nbviewer.jupyter.org/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/M2_Case_ETF_Holdings_Python.ipynb)
 
----->
 
 # General Data Science Resoures
 
