@@ -78,6 +78,10 @@ Contents & Topics:
 * In th first Part 2, you will replicate a well known network analysis, with different data and some twists. 
 * Data: The data is to be found at: https://github.com/SDS-AAU/SDS-master/raw/master/00_data/network_krackhard 
 
+## Example solution
+
+* [Minimal and barely commented solution notebook](https://sds-aau.github.io/SDS-master/M2/exercises/nw_assignment_solution.nb.html): Shows you some fast and easy ways how to solve the assignment tasks. Doesn't explain a lot, but will help to get you started and/or check if you are on the right track. Please give it a shot on your own before, though :)
+
 ## Data: What do I get?
 
 ### Background
