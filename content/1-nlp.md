@@ -1,5 +1,5 @@
 ---
-title: Netural Language Processing
+title: Natural Language Processing
 nav: NLP
 ---
 
