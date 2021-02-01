@@ -16,8 +16,12 @@ nav: Resources
 # Machine Learning \& Predictive Modelling
 
 ## R
-
 * Kuhn, M., Silge, J. (2020) Tidy Modeling with R [Online available here](https://www.tmwr.org/)
 
 # Natural Language Processing
+
+## R
+
+* Julia Silge and David Robinson (2020). Text Mining with R: A Tidy Approach, O’Reilly. Online available [here](https://www.tidytextmining.com/)
+* Emil Hvidfeldt and Julia Silge (2020). Supervised Machine Learning for Text Analysis in R, online available [here](https://smltar.com/)
 
