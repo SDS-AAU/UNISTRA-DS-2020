@@ -14,6 +14,6 @@ is an Associate Professor of Innovation Studies and Applied Data Science at Aalb
 {% include figure.html img="me.jpg" alt="Daniel Hain" caption="" width="50%" float="center" %}
 
 {% capture text %}
-is an Associate Professor of Data Science and Innoivation Economics at the Aalborg University Business School, Denmark. 
+Daniel is an Associate Professor in Innovation Economics & Data Science at the Aalborg University Business School. His research is dedicated to the development and application of data-driven methods to map, understand, and predict technological change, and its causes and consequences for socioeconomic systems on various levels of aggregation. His current contextual focus is the dynamics of AI research and industry. Daniel is actively engaged in initiatives to educate (social science) students, professionals, and policymakers in understanding, evaluating, and applying modern Data Science and Artificial Intelligence methods for data-driven decision making.
 {% endcapture %}
 {% include card.html text=text header="Daniel Hain (dsh@business.aau.dk)" title="" float="left" %}
