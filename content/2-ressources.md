@@ -8,7 +8,7 @@ nav: Resources
 ## R
 * Wickham, H., & Grolemund, G. (2016). R for data science: import, tidy, transform, visualize, and model data. O'Reilly Media, Inc. [Online available here](https://r4ds.had.co.nz/)
 * Baumer, B., Kaplan, D. & Horton, N. (2020) Modern Data Science with R (2nd Ed.). CRC Press [Online available here](https://beanumber.github.io/mdsr2e/)
-
+* Chester Ismay and Albert Y. Kim. (2020) Statistical Inference via Data Science: A ModernDive into R and the tidyverse. CRC Press [Online available here]  (https://moderndive.com/)
 
 ## Python
 * VanderPlas, J. (2016). Python data science handbook: Essential tools for working with data. O'Reilly Media, Inc. [Online available here](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
