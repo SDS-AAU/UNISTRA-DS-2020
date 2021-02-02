@@ -28,3 +28,11 @@ Contents & Topics:
         * [Html](https://sds-aau.github.io/SDS-master/M2/notebooks/NLP_intro_R.nb.html){:target="_blank"} 
         * [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/NLP_intro_R.ipynb){:target="_blank"}
    
+* Application: Working with long text and extracting text elements
+   * Python: 
+      * [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/NLP_Longtext_py.ipynb){:target="_blank"}
+      * [Video](https://www.loom.com/share/e5480f30f379471e975d9080ecd6bb44){:target="_blank"} can be watched at 1.5x :wink: Link to News-scraping tutorial in the notebook.
+   * R: 
+      * Video [1: Preprocessing & Sentiments](https://www.loom.com/share/693668d74ce74697870fd97a8256d682?from_recorder=1){:target="_blank"}
+      * [2: Entity extraction](https://www.loom.com/share/647407c8959a4702b14c7db8dcf055f0?from_recorder=1){:target="_blank"} 
+      * [Html](https://sds-aau.github.io/SDS-master/M2/notebooks/NLP_long_text_R.nb.html){:target="_blank"}
