@@ -36,3 +36,14 @@ Contents & Topics:
       * Video [1: Preprocessing & Sentiments](https://www.loom.com/share/693668d74ce74697870fd97a8256d682?from_recorder=1){:target="_blank"}
       * [2: Entity extraction](https://www.loom.com/share/647407c8959a4702b14c7db8dcf055f0?from_recorder=1){:target="_blank"} 
       * [Html](https://sds-aau.github.io/SDS-master/M2/notebooks/NLP_long_text_R.nb.html){:target="_blank"}
+
+
+* Application: Vectorization and Topic Modelling
+   * Python: 
+      * [Colab](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/notebooks/M2_NLP_TexVec_Py.ipynb){:target="_blank"} 
+      * [Video - Ecosystem](https://www.loom.com/share/64b94c41755b4a78bdfe354203c10104){:target="_blank"}  
+      * [Video - Tutorial](https://www.loom.com/share/3dc09124ae7a4525872384d13be3ec36){:target="_blank"} 
+   
+   * R: 
+      * [Video](https://www.loom.com/share/e9e054a738f3472983c905b1b739b9c3){:target="_blank"}  
+      * [Html](https://sds-aau.github.io/SDS-master/M2/notebooks/NLP_text_vectorization_R.nb.html){:target="_blank"} 
