@@ -77,8 +77,7 @@ Everything goes. Show us some pretty and informative plots. Choose what to plot,
 
 * [Minimal and barely commented solution notebook](https://sds-aau.github.io/SDS-master/M2/exercises/nw_assignment_solution.nb.html): Shows you some fast and easy ways how to solve the assignment tasks. Doesn't explain a lot, but will help to get you started and/or check if you are on the right track. Please give it a shot on your own before, though :)
 
-
-* # Assignment 2 - NLP and Presidential Debate Tweets
+# Assignment 2 - NLP and Presidential Debate Tweets
 
 Using the below data of tweets about the presidential debate in the US (autumn 2020) as well as the tweets of US Congress members by Party, we would like you to classify the debate-tweets into consevative vs. liberal. Using techniques learnied in the course provide some insights about what most conservative and most liberal posts are talking about...
 
