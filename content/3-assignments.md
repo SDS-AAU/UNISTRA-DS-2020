@@ -76,3 +76,23 @@ Everything goes. Show us some pretty and informative plots. Choose what to plot,
 ## Example solution
 
 * [Minimal and barely commented solution notebook](https://sds-aau.github.io/SDS-master/M2/exercises/nw_assignment_solution.nb.html): Shows you some fast and easy ways how to solve the assignment tasks. Doesn't explain a lot, but will help to get you started and/or check if you are on the right track. Please give it a shot on your own before, though :)
+
+
+* # Assignment 2 - NLP and Presidential Debate Tweets
+
+Using the below data of tweets about the presidential debate in the US (autumn 2020) as well as the tweets of US Congress members by Party, we would like you to classify the debate-tweets into consevative vs. liberal. Using techniques learnied in the course provide some insights about what most conservative and most liberal posts are talking about...
+
+- The data is gz-compressed JSON format - in Python pandas should not have issues opening it with `pd.read_json`, otherwise add `compression='gzip'` 
+
+- in R:
+
+```{% raw %}
+library(jsonlite)
+tmp <- tempfile()
+download.file("https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz", tmp)
+
+tweets_raw <- stream_in(gzfile(tmp, "pol_tweets")){% endraw %}
+```
+
+* 50k tweets from members/groups in the US Congress by Party (Rep:0, Dem:1: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz
+* ~8k tweets on the 2020 presidential debate: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pres_debate_2020.gz
