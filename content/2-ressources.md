@@ -1,5 +1,5 @@
 ---
-title: Resources \& MAterial for further study
+title: Resources & Material for further study
 nav: Resources
 ---
 
@@ -13,12 +13,18 @@ nav: Resources
 ## Python
 * VanderPlas, J. (2016). Python data science handbook: Essential tools for working with data. O'Reilly Media, Inc. [Online available here](https://jakevdp.github.io/PythonDataScienceHandbook/index.html)
 
-# Machine Learning \& Predictive Modelling
+# Machine Learning & Predictive Modelling
 
 ## R
 * Kuhn, M., Silge, J. (2020) Tidy Modeling with R [Online available here](https://www.tmwr.org/)
 
 # Natural Language Processing
+
+General - Community curated [list of most recent NLP resources](https://github.com/keon/awesome-nlp)
+
+## Python
+Bird, S., Klein, E., & Loper, E. (2009). Natural language processing with Python: analyzing text with the natural language toolkit. " O'Reilly Media, Inc.". [here](https://www.nltk.org/book/)
+
 
 ## R
 
