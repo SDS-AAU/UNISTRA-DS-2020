@@ -54,22 +54,3 @@ Contents & Topics:
       * [Colab](https://colab.research.google.com/github/RJuro/nlp-intro-cuny/blob/master/notebooks/Intro_to_nlp_and_supervised_tasks.ipynb){:target="_blank"} 
       * [Video - SML](https://www.loom.com/share/443848be519c4d97b298da4aa51304a0){:target="_blank"}  
       * [Video - Semantic Search](https://www.loom.com/share/20d39ca6a85843718cfddaffcc1cc6c5?sharedAppSource=personal_library){:target="_blank"} 
-
-* ## NLP - Assignment
-
-Using the below data of tweets about the presidential debate in the US (autumn 2020) as well as the tweets of US Congress members by Party, we would like you to classify the debate-tweets into consevative vs. liberal. Using techniques learnied in the course provide some insights about what most conservative and most liberal posts are talking about...
-
-- The data is gz-compressed JSON format - in Python pandas should not have issues opening it with `pd.read_json`, otherwise add `compression='gzip'` 
-
-- in R:
-
-
-```library(jsonlite)
-tmp <- tempfile()
-download.file("https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz", tmp)
-
-tweets_raw <- stream_in(gzfile(tmp, "pol_tweets"))```
-
-
-* 50k tweets from members/groups in the US Congress by Party (Rep:0, Dem:1: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz
-* ~8k tweets on the 2020 presidential debate: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pres_debate_2020.gz
