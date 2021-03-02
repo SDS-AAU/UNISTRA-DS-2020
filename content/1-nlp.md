@@ -63,13 +63,13 @@ Using the below data of tweets about the presidential debate in the US (autumn 2
 
 - in R:
 
-{% highlight r %}
-library(jsonlite)
+
+```library(jsonlite)
 tmp <- tempfile()
 download.file("https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz", tmp)
 
-tweets_raw <- stream_in(gzfile(tmp, "pol_tweets"))
-{% highlight r %}
+tweets_raw <- stream_in(gzfile(tmp, "pol_tweets"))```
+
 
 * 50k tweets from members/groups in the US Congress by Party (Rep:0, Dem:1: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz
 * ~8k tweets on the 2020 presidential debate: https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pres_debate_2020.gz
