@@ -76,7 +76,7 @@ Everything goes. Show us some pretty and informative plots. Choose what to plot,
 ## Example solution
 
 * [Minimal and barely commented solution notebook](https://sds-aau.github.io/SDS-master/M2/exercises/nw_assignment_solution.nb.html): Shows you some fast and easy ways how to solve the assignment tasks. Doesn't explain a lot, but will help to get you started and/or check if you are on the right track. Please give it a shot on your own before, though :)
-
+* [Minimal solution Py](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/exercises/M2_workshop_NW_Assignment_solution.ipynb){:target="_blank"} 
 # Assignment 2 - NLP and Presidential Debate Tweets
 
 Using the below data of tweets about the presidential debate in the US (autumn 2020) as well as the tweets of US Congress members by Party, we would like you to classify the debate-tweets into conservative vs. liberal. Using techniques learned in the course provide some insights about what most conservative the and most liberal posts are talking about...
@@ -95,3 +95,9 @@ tweets_raw <- stream_in(gzfile(tmp, "pol_tweets")){% endraw %}
 
 * 50k tweets from members/groups in the US Congress by Party (Rep:0, Dem:1: `https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pol_tweets.gz`
 * ~8k tweets on the 2020 presidential debate: `https://github.com/SDS-AAU/SDS-master/raw/master/M2/data/pres_debate_2020.gz`
+
+## Example solution
+
+* [Solution Py](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/exercises/Poltweets_assignment_solution.ipynb){:target="_blank"} 
+* [Solution add-on transformers](https://colab.research.google.com/github/SDS-AAU/SDS-master/blob/master/M2/exercises/transformer_pol_tweets_solution.ipynb){:target="_blank"} 
+* [Video walktrough](https://www.loom.com/share/83dc5e5a1bbe48d6a241ebe6e2b52c4c){:target="_blank"} 
