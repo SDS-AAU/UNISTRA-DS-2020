@@ -160,7 +160,7 @@ You are welcome to reuse code-elements from the course.
 
 ### Delivery and Format
 
-Please work in groups of around 3 members on the assignment. The oral examination will be also conducted in a group setting.
+Please work in groups of around 3 members on the assignment. 
 
 You deliver a computational notebook as ipynb/rmd and HTML or PDF file by mail to Roman and Daniel. 
 **Deadline for delivery 31/3 - noon**
